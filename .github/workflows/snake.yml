@@ -2,9 +2,8 @@ name: Snake Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */6 * * *" 
+    
   workflow_dispatch:
 
 jobs:
@@ -28,4 +27,4 @@ jobs:
           build_dir: dist
           keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
