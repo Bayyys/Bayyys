@@ -41,7 +41,7 @@
 
 - 🌱 大家好, 这里是Bayyy。
 - 🔭 热爱编程、读书、羽毛球、公路车。
-- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bayyy1002@gmail.com)](mailto:bayyy1002@gmail.com) ![QQMail Badge](https://img.shields.io/badge/-QQMail-6488D1?logo=TencentQQ&link=mailto：475417309@qq.com)
+- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bayyy1002@gmail.com)](mailto:bayyy1002@gmail.com) ![QQMail Badge](https://img.shields.io/badge/-QQMail-6488D1?logo=TencentQQ&link=mailto:475417309@qq.com)
 
 - 💬 学如逆水行舟, 不进则退
 - ⚡ <strong>Learning is like sailing against the water. If you do not advance, you will retreat.</strong>
