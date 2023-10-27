@@ -133,15 +133,28 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <div align="center" > <br>
 
-<table frame=void>
+<table rules='none'>
   <tr>
-    <td align="center">
-      <!-- Quotes 名人名言 -->
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500" alt="Quotes Card" /><br>
+    <td style="text-align: center">
+      <div style="vertical-align: middle">
+        <!-- Quotes 名人名言 -->
+        <img
+          src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+          width="500"
+          alt="Quotes Card"
+          valian="middle"
+        />
+      </div>
     </td>
-    <td align="center">
-      <!-- Joke 笑话 -->
-      <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" width="500" alt="Jokes Card" />
+    <td style="text-align: center">
+      <div style="vertical-align: middle">
+        <img
+          src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212"
+          width="500"
+          alt="Jokes Card"
+          valian="middle"
+        />
+      </div>
     </td>
   </tr>
 </table>
