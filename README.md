@@ -133,13 +133,13 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <div align="center" > <br>
 
-<table>
+<table frame=void>
   <tr>
-    <td>
+    <td align="center">
       <!-- Quotes 名人名言 -->
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
     </td>
-    <td>
+    <td align="center">
       <!-- Joke 笑话 -->
       <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
     </td>
@@ -152,8 +152,8 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@Bayyys/8061110e-fb7a-4d75-ac75-2c401051b48d.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@Bayyys/58a433ca-46ac-4553-b9ff-6290153cd833.svg" width="500" alt="Wakatime"/></td>
+    <td align="center"><img src="https://wakatime.com/share/@Bayyys/8061110e-fb7a-4d75-ac75-2c401051b48d.svg" width="500" alt="Wakatime"/></td>
+    <td align="center"><img src="https://wakatime.com/share/@Bayyys/58a433ca-46ac-4553-b9ff-6290153cd833.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
