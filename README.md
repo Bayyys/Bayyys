@@ -178,7 +178,7 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <div align="center">
 
 <!-- run 图片 -->
-<img src="./assets/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="./assets/man_run.png" alt="Man Running" width="250" height="250" /> <br>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayyys&theme=dark&hide_border=true" />
