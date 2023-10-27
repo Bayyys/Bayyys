@@ -30,4 +30,11 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Other      42 mins         ██████████████████▒░░░░░░   73.92 %
+Markdown   13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+```
+
 <!--END_SECTION:waka-->
