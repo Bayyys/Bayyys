@@ -138,7 +138,7 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center" >
+<div align="center" > <br>
 
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
