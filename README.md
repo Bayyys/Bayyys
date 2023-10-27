@@ -39,7 +39,7 @@
 
 <img align="right" width="88" src="./assets/steven.png" />
 
-- 🌱 <p>&emsp;&emsp;大家好, 这里是Bayyy。</p>
+- 🌱 &emsp;&emsp;大家好, 这里是Bayyy。
 - 🔭 <p>&emsp;&emsp;热爱编程、读书、羽毛球、公路车。</p>
 - 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)](mailto:bayyy1002@gmail.com)
 - 💬 <p>&emsp;&emsp;学如逆水行舟, 不进则退</p>
