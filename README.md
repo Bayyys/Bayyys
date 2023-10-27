@@ -32,6 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 19 October 2023 - To: 26 October 2023
+
 Other      42 mins         ██████████████████▒░░░░░░   73.92 %
 Markdown   13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.95 %
 JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
