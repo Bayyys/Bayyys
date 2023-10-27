@@ -6,6 +6,7 @@ on:
     # cron 表达式，每 6 小时执行一次
     - cron: 0 */6 * * *
 
+  # 可以手动运行工作流
   workflow_dispatch:
 
 jobs:
@@ -29,4 +30,4 @@ jobs:
           build_dir: dist
           keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
