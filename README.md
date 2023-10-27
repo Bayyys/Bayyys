@@ -24,7 +24,7 @@
     />
     <img
       alt="github-snake"
-      src="https://cdn.jsdelivr.net/gh/Bayyys/Bayyys/profile-snake-contrib/github-contribution-grid-snake-dark.svg"
+      src="https://cdn.jsdelivr.net/gh/Bayyys/Bayyys/profile-snake-contrib/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
