@@ -150,6 +150,9 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
      <td><img src="https://wakatime.com/share/@Bayyys/8061110e-fb7a-4d75-ac75-2c401051b48d.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@Bayyys/58a433ca-46ac-4553-b9ff-6290153cd833.svg" width="500" alt="Wakatime"/></td>
   </tr>
+  <tr>
+    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
+  </tr>
 </table>
 
 </div>
