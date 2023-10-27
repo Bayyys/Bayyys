@@ -133,8 +133,18 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <div align="center" > <br>
 
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+<table>
+  <tr>
+    <td>
+      <!-- Quotes 名人名言 -->
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+    </td>
+    <td>
+      <!-- Joke 笑话 -->
+      <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Bayyys&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
@@ -142,7 +152,7 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- Wakatime Graph-->
 <table>
   <tr>
-     <td><img src="https://wakatime.com/share/@Bayyys/8061110e-fb7a-4d75-ac75-2c401051b48d.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@Bayyys/8061110e-fb7a-4d75-ac75-2c401051b48d.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@Bayyys/58a433ca-46ac-4553-b9ff-6290153cd833.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
@@ -156,9 +166,6 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- run 图片 -->
 <img src="./assets/man_run.png" alt="Man Running" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayyys&theme=dark&hide_border=true" />
