@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Metrics
 
 on:
   # 准许手动触发
@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    name: Waka Metrics
+    name: Update Waka Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
