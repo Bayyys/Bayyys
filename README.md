@@ -39,11 +39,11 @@
 
 <img align="right" width="88" src="./assets/steven.png" />
 
-- 🌱 &emsp;大家好, 这里是Bayyy。
-- 🔭 &emsp;热爱编程、读书、羽毛球、公路车。
+- 🌱 大家好, 这里是Bayyy。
+- 🔭 热爱编程、读书、羽毛球、公路车。
 - 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)](mailto:bayyy1002@gmail.com)
-- 💬 &emsp;学如逆水行舟, 不进则退
-- ⚡ <strong>&emsp;&emsp;Learning is like sailing against the water. If you do not advance, you will retreat.</strong>
+- 💬 学如逆水行舟, 不进则退
+- ⚡ <strong>Learning is like sailing against the water. If you do not advance, you will retreat.</strong>
 
 </td></tr>
 
