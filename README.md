@@ -36,7 +36,27 @@
   
 <!-- About Me -->
 ### 🤺 About Me
+<p>&emsp;&emsp;大家好, 这里是Bayyy。</p>
+<p>&emsp;&emsp;热爱编程、读书、羽毛球、公路车。</p>
+<p>&emsp;&emsp;学如逆水行舟, 不进则退</p>
+<p><strong>&emsp;&emsp;Learning is like sailing against the water. If you do not advance, you will retreat.</strong></p>
 
+</td></tr>
+
+<tr><td>
+  
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<picture>
+   <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bayyys&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bayyys&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=Bayyys&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"/>
+</picture>
+
+</td></tr>
+
+<tr><td>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2019%20mins-blue)
