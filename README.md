@@ -135,13 +135,13 @@ Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <table frame=void>
   <tr>
-    <td align="center" valign="middle">
+    <td align="center">
       <!-- Quotes 名人名言 -->
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500" alt="Quotes Card" /><br>
     </td>
-    <td align="center" valign="middle">
+    <td align="center">
       <!-- Joke 笑话 -->
-      <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+      <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" width="500" alt="Jokes Card" />
     </td>
   </tr>
 </table>
