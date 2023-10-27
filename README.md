@@ -54,6 +54,16 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bayyys&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+<!--START_SECTION:waka-->
+
 **I'm a Night 🦉** 
 
 ```text
@@ -108,7 +118,7 @@ C++                      2 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.09 % 
 Vim Script               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.09 % 
 ```
-
+<!--END_SECTION:waka-->
 
 
 **Timeline**
