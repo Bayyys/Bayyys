@@ -36,6 +36,9 @@
   
 <!-- About Me -->
 ### 🤺 About Me
+
+<img align="right" width="88" src="./assets/steven.png" />
+
 <p>&emsp;&emsp;大家好, 这里是Bayyy。</p>
 <p>&emsp;&emsp;热爱编程、读书、羽毛球、公路车。</p>
 <p>&emsp;&emsp;学如逆水行舟, 不进则退</p>
@@ -49,7 +52,7 @@
 ### 📊 WakaTime
 
 <picture>
-   <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bayyys&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bayyys&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Bayyys&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=Bayyys&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"/>
 </picture>
