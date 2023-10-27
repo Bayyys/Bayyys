@@ -26,7 +26,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO : "TRUE"  # 仓库语言/框架占比
           SHOW_LINES_OF_CODE : "False"  # 代码行数
           SHOW_PROFILE_VIEWS : "False"  # 个人主页访问量
-          SHOW_LOC_CHART : "True"  # 代码行数图表
+          SHOW_LOC_CHART : "False"  # 代码行数图表
           SHOW_SHORT_INFO : "False" # 个人信息
           SHOW_TOTAL_CODE_TIME : "True"  # 总代码时间
           SHOW_TITLE : true # 标题
