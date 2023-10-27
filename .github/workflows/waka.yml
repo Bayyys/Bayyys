@@ -5,11 +5,11 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: 0 0 * * *
+    - cron: 0 0/6/12/18 * * *
 
 jobs:
   update-readme:
-    name: Update Waka Metrics
+    name: Waka Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -28,7 +28,7 @@ jobs:
           SHOW_PROFILE_VIEWS : "False"  # 个人主页访问量
           SHOW_LOC_CHART : "False"  # 代码行数图表
           SHOW_SHORT_INFO : "False" # 个人信息
-          SHOW_TOTAL_CODE_TIME : "True"  # 总代码时间
+          SHOW_TOTAL_CODE_TIME : "False"  # 总代码时间
           SHOW_TITLE : true # 标题
           SYMBOL_VERSION: 3 # 进度条符号
 
