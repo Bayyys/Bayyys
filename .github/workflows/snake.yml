@@ -4,7 +4,7 @@ on:
   # 时间调度
   schedule:
     # cron 表达式，每 6 小时执行一次
-    - cron: 0 */6 * * * *
+    - cron: 0 */6 * * *
 
   workflow_dispatch:
 
