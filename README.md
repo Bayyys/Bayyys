@@ -29,8 +29,30 @@
   </picture>
 </div>
 
+#  🙋 Hello
+
+<table>
+<tr><td>
+  
+<!-- About Me -->
+### 🤺 About Me
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2022%20mins-blue)
+<p>&emsp;&emsp;大家好, 这里是Bayyy。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+</td></tr>
+
+<tr><td>
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
 
 **I'm a Night 🦉** 
 
